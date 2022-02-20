@@ -76,16 +76,16 @@ this.innerHTML = `
         <h6 class="text-uppercase font-weight-bold">Products</h6>
         <hr class="accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #ba68c8;">
         <p>
-          <a href="#!" class="text-white">Mobiles</a>
+          <a href="#mobiles" class="text-white">Mobiles</a>
         </p>
         <p>
-          <a href="#!" class="text-white">Shoes</a>
+          <a href="#shoes" class="text-white">Shoes</a>
         </p>
         <p>
-          <a href="#!" class="text-white">Clothes</a>
+          <a href="#books" class="text-white">Books</a>
         </p>
         <p>
-          <a href="#!" class="text-white">Books</a>
+          <a href="#clothes" class="text-white">Clothes</a>
         </p>
 
       </div>
@@ -98,16 +98,16 @@ this.innerHTML = `
         <h6 class="text-uppercase font-weight-bold">Useful links</h6>
         <hr class="accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px; background-color: #ba68c8;">
         <p>
-          <a href="#!" class="text-white">Electronics</a>
-        </p>
-        <p>
-          <a href="#!" class="text-white">Footwears</a>
-        </p>
-        <p>
-          <a href="#!" class="text-white">Books</a>
+          <a href="electronics.html" class="text-white">Electronics</a>
         </p>
         <p>
           <a href="#!" class="text-white">Clothes</a>
+        </p>
+        <p>
+          <a href="footwears.html" class="text-white">Footwears</a>
+        </p>
+        <p>
+          <a href="books.html" class="text-white">Books</a>
         </p>
 
       </div>
@@ -124,7 +124,7 @@ this.innerHTML = `
         <p>
           <i class="fa fa-envelope mr-3 text-white"></i> sarfaraj.salim@yahoo.com</p>
         <p>
-          <i class="fa fa-phone mr-3 text-white"></i> + 91 737 91 30724</p>
+          <i class="fa fa-phone mr-3 text-white"></i> + 91 737 913 0724</p>
         <p>
           <i class="fa fa-print mr-3 text-white"></i> + 91 623 962 4873</p>
 
@@ -138,7 +138,7 @@ this.innerHTML = `
   <!-- Footer Links -->
 
   <!-- Copyright -->
-  <div class="footer-copyright text-center py-3 bg-secondary text-white-50">© 2020 Copyright:
+  <div class="footer-copyright text-center py-3 bg-secondary text-white-50">© 2022 Copyright:
     <a href="https://www.github.com/SarfarajSalimKhan" class="text-white"> Designed by SarfarajSalimKhan</a>
   </div>
   <!-- Copyright -->
